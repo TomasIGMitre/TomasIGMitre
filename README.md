@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TomasIGMitre
+- 👀 I’m interested in security and data storage.
+- 🌱 I’m currently learning to code using Python and Java.
